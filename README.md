@@ -3,6 +3,7 @@
 ## TIPS:
 * For background image, generate AI image depending on your requirement and theme. Then resize the image using image resizer to 160 X 120 and save in PNG format. Finally convert the image to pixel code (https://riknoll.github.io/pxt-arcade-asset-tool/). A code upload to the arcade make code via Python format. A final touch up on the image is needed
 * For melody and song, auto generate the melody using AI. A code upload to the arcade make code via Python format
+* DEMO: https://youtu.be/wysJ73av8CQ
 
 > Open this page at [https://nurfaiz88.github.io/math_Hunter_Project_PRD/](https://nurfaiz88.github.io/math_Hunter_Project_PRD/)
 
