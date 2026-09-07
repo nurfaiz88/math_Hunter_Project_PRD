@@ -17,12 +17,12 @@ Patterns and Sequences
 
 ## Examples implemented in the game include:
 
-Question	= Correct Answer
-2,5,8,11,_	= 14
-30,27,24,21,_	= 18
-3,6,12,24,_	= 48
-1,4,9,16,25,_	= 36
-1,1,2,3,5,8,13,_	= 21
+* Question	= Correct Answer
+* 2,5,8,11,_	= 14
+* 30,27,24,21,_	= 18
+* 3,6,12,24,_	= 48
+* 1,4,9,16,25,_	= 36
+* 1,1,2,3,5,8,13,_	= 21
 
 Questions are randomly selected each time the game starts, providing replayability and continuous learning opportunities.
 
